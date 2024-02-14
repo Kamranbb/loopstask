@@ -94,3 +94,27 @@ Console.WriteLine("Hello, World!");
 //Console.WriteLine(sum);
 
 #endregion
+
+//#region
+//int a = 55;
+//int b = 500;
+//int count = 0;
+//int sum = 0;
+//for (int i = a; i < b; i++)
+//{
+//    if (i % 15 == 0)
+//    {
+//        sum += i;
+//        count++;
+
+//        {
+//            break;
+//        }
+
+//    }
+
+
+
+//}
+//Console.WriteLine(sum);
+//#endregion
