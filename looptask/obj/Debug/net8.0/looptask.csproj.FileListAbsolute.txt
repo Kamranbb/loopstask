@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\looptask\looptask\obj\Debug\net8.0\looptask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\looptask\looptask\obj\Debug\net8.0\looptask.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\looptask\looptask\obj\Debug\net8.0\looptask.AssemblyInfo.cs
+C:\Users\Hp\Desktop\looptask\looptask\obj\Debug\net8.0\looptask.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\looptask\looptask\bin\Debug\net8.0\looptask.exe
+C:\Users\Hp\Desktop\looptask\looptask\bin\Debug\net8.0\looptask.deps.json
+C:\Users\Hp\Desktop\looptask\looptask\bin\Debug\net8.0\looptask.runtimeconfig.json
+C:\Users\Hp\Desktop\looptask\looptask\bin\Debug\net8.0\looptask.dll
+C:\Users\Hp\Desktop\looptask\looptask\bin\Debug\net8.0\looptask.pdb
+C:\Users\Hp\Desktop\looptask\looptask\obj\Debug\net8.0\looptask.dll
+C:\Users\Hp\Desktop\looptask\looptask\obj\Debug\net8.0\refint\looptask.dll
+C:\Users\Hp\Desktop\looptask\looptask\obj\Debug\net8.0\looptask.pdb
+C:\Users\Hp\Desktop\looptask\looptask\obj\Debug\net8.0\looptask.genruntimeconfig.cache
+C:\Users\Hp\Desktop\looptask\looptask\obj\Debug\net8.0\ref\looptask.dll
