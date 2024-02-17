@@ -20,7 +20,7 @@ Console.WriteLine("Hello, World!");
 #endregion
 
 
-#region task2
+#region task-2
 //int a = 26;
 
 //for (int i = 0; i < a; i++)
