@@ -1,4 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System.Diagnostics.CodeAnalysis;
+
 Console.WriteLine("Hello, World!");
 
 #region task1
@@ -18,7 +20,24 @@ Console.WriteLine("Hello, World!");
 #endregion
 
 
+#region task2
+//int a = 26;
 
+//for (int i = 0; i < a; i++)
+//{
+//    if (i % a == 0)
+//    {
+//        Console.WriteLine("murekkebdir");
+//    }
+//    else
+//    {
+//        Console.WriteLine("sadedir");
+//    }
+//    {
+//        break;
+//    }
+//}
+#endregion 
 
 
 //#region task3
@@ -118,3 +137,19 @@ Console.WriteLine("Hello, World!");
 //}
 //Console.WriteLine(sum);
 //#endregion
+
+
+
+//int a = 1;
+//int b = 147;
+//int sum = 0;
+//int count = 0;
+//for (int i = a; i < b; i++)
+//{
+//    if (i % 21 == 0)
+//    {
+//        sum += i;
+//        count++;
+//    }
+//}
+//Console.WriteLine(sum / count);

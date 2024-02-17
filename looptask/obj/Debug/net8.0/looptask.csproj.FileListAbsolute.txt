@@ -12,3 +12,4 @@ C:\Users\Hp\Desktop\looptask\looptask\obj\Debug\net8.0\refint\looptask.dll
 C:\Users\Hp\Desktop\looptask\looptask\obj\Debug\net8.0\looptask.pdb
 C:\Users\Hp\Desktop\looptask\looptask\obj\Debug\net8.0\looptask.genruntimeconfig.cache
 C:\Users\Hp\Desktop\looptask\looptask\obj\Debug\net8.0\ref\looptask.dll
+C:\Users\Hp\Desktop\looptask\looptask\obj\Debug\net8.0\looptask.sourcelink.json
